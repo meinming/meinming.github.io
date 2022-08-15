@@ -1,0 +1,116 @@
+:root{
+  --heo-white: #fff;
+  --heo-blue: #286dea;
+  --heo-none: rgba(0,0,0,0);
+  --heo-gray: #999999;
+}
+[data-theme=light] {
+  --heo-fontcolor: #000;
+  --heo-background: #fff;
+  --heo-maskbg: rgba(255, 255, 255, 0.6);
+  --heo-navbg: rgba(255, 255, 255, 0.9);;
+  --heo-hovertext: #286dea;
+  --heo-ahoverbg: #F7F7FA;
+  --heo-lighttext: #ef794f;
+  --heo-secondtext: rgba(0, 0, 0, 0.6);
+  --heo-card-btn-bg: #F7F7FA;
+  --heo-post-blockquote-bg: #f2f5f7;
+  --heo-sceondbg: #F7F7FA;
+}
+[data-theme=dark] {
+  --heo-fontcolor: #fff;
+  --heo-background: #1e1e1e;
+  --heo-maskbg: rgba(0,0,0, 0.6);
+  --heo-navbg: rgba(0,0,0, 0.9);
+  --heo-hovertext: #286dea;
+  --heo-ahoverbg: #fff;
+  --heo-lighttext: #f2b94b;
+  --heo-secondtext: rgba(255, 255, 255, 0.6);
+  --heo-card-btn-bg: #3f3f3f;
+  --heo-post-blockquote-bg: #000;
+  --heo-sceondbg: #252627;
+}
+
+/* 评论 */
+/* ---------------------------------------------------------------- */
+
+/* 填写项标题 */
+.el-input-group__append, .el-input-group__prepend{
+  background-color: var(--heo-sceondbg)!important;
+  color: var(--heo-fontcolor)!important;
+  border: 0px solid var(--heo-blue)!important;
+}
+
+/* 输入框 */
+.el-input__inner{
+  background: var(--heo-post-blockquote-bg)!important;
+  border: 0px solid var(--heo-blue)!important;
+  color: var(--heo-fontcolor)!important;
+}
+
+/* 评论输入框 */
+.el-textarea__inner{
+  background: var(--heo-post-blockquote-bg)!important;
+  border: 0px solid var(--heo-blue)!important;
+  color: var(--heo-fontcolor)!important;
+}
+
+/* 评论数量字号 */
+#twikoo > div.tk-comments > div.tk-comments-container > div.tk-comments-title > span:nth-child(1){
+  display: none!important;
+}
+
+.tk-icon[data-v-2619081a]{
+  transform: translateY(-46px);
+}
+
+/* 加载时背景颜色 */
+.el-loading-mask{
+  background-color: var(--heo-background)!important;
+}
+
+
+/* 评论博主标签圆角 */
+.tk-tag-green{
+  border-radius: 12px!important;
+  border: 0px solid #e1f3d8!important;
+}
+
+[data-theme=dark] .tk-tag-green{
+  background-color: #67c23a21!important;
+}
+
+/* 预览按钮 */
+.el-button{
+  background: var(--heo-card-btn-bg)!important;
+  border: 0px solid var(--heo-blue)!important;
+  color: var(--heo-fontcolor)!important;
+}
+
+.el-button:hover{
+  background: var(--heo-blue)!important;
+  color: var(--heo-white)!important;
+}
+
+/* 发送按钮正常状态 */
+.el-button--primary{
+  background-color: var(--heo-blue)!important;
+  border-color: var(--heo-blue)!important;
+  color: var(--heo-white)!important;
+}
+
+/* 发送按钮禁用状态 */
+.el-button--primary.is-disabled, .el-button--primary.is-disabled:active, .el-button--primary.is-disabled:focus, .el-button--primary.is-disabled:hover{
+  opacity: 0.4;
+}
+
+/* 更多评论的渐变遮罩 */
+[data-theme=dark] .tk-expand{
+  background: linear-gradient(rgba(29, 31, 32,0), rgba(29, 31, 32,1))!important;
+  color: var(--heo-fontcolor);
+}
+
+/* 评论时间 */
+.tk-time{
+  color: var(--heo-gray);
+}
