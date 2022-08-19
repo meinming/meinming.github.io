@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://meinming.github.io/2022/08/12/shentou/</loc>
+    
+    <lastmod>2022-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://meinming.github.io/about/index.html</loc>
     
     <lastmod>2022-08-19</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://meinming.github.io/diary/index.html</loc>
     
     <lastmod>2022-08-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://meinming.github.io/2022/08/12/shentou/</loc>
-    
-    <lastmod>2022-08-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -91,6 +91,13 @@
   
   <url>
     <loc>https://meinming.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://meinming.github.io/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
