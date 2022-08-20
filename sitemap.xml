@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://meinming.github.io/diary/index.html</loc>
+    <loc>https://meinming.github.io/2022/08/12/shentou/</loc>
     
     <lastmod>2022-08-20</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://meinming.github.io/2022/08/12/shentou/</loc>
+    <loc>https://meinming.github.io/diary/index.html</loc>
     
-    <lastmod>2022-08-19</lastmod>
+    <lastmod>2022-08-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
