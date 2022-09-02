@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://meinming.github.io/posts/9dca6c72/</loc>
+    <loc>https://meinming.github.io/posts/8338140e/</loc>
     
     <lastmod>2022-09-02</lastmod>
     
@@ -12,24 +12,6 @@
   
   <url>
     <loc>https://meinming.github.io/diary/index.html</loc>
-    
-    <lastmod>2022-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://meinming.github.io/posts/91ea5378/</loc>
-    
-    <lastmod>2022-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://meinming.github.io/posts/8338140e/</loc>
     
     <lastmod>2022-09-01</lastmod>
     
@@ -48,6 +30,24 @@
   
   <url>
     <loc>https://meinming.github.io/artitalk/index.html</loc>
+    
+    <lastmod>2022-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://meinming.github.io/posts/9dca6c72/</loc>
+    
+    <lastmod>2022-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://meinming.github.io/posts/91ea5378/</loc>
     
     <lastmod>2022-09-01</lastmod>
     
