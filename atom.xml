@@ -6,7 +6,7 @@
   <link href="https://meinming.github.io/atom.xml" rel="self"/>
   
   <link href="https://meinming.github.io/"/>
-  <updated>2022-09-01T08:48:27.952Z</updated>
+  <updated>2022-09-02T00:55:09.008Z</updated>
   <id>https://meinming.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>公告：vercel她炸了，我们也跟着炸了</title>
+    <link href="https://meinming.github.io/posts/9dca6c72/"/>
+    <id>https://meinming.github.io/posts/9dca6c72/</id>
+    <published>2022-09-02T00:19:45.000Z</published>
+    <updated>2022-09-02T00:55:09.008Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="号外"><a href="#号外" class="headerlink" title="号外!"></a>号外!</h1><p>因为<code>vercel</code>喜提被墙，我站的<code>网易云</code>和<code>twikoo(评论系统)</code>当场中枪，直接瘫了（战术去世.jpg），现在大家只能将就，<del>或者使用尊贵的来必力</del>，对此产生的不便，请您理解。</p><p><img src="/posts/undefined/image_68.png"></p><p>尊贵的<code>leancould的服务器域名</code>在大陆被403，需要绑定自己的域名才行，所以，和您想的一样，<strong>artitalk</strong>也炸了（战术去世.jpg）</p><p>预期的解决办法：想找用vercel反代。</p><p><strong>吾站之存未期逾月，vercel为墙之，github为阻之，leancould亦拒访于我于我，噫！如此之行，是何异于刺人而杀之也！</strong></p><hr><h1 id="新博文前瞻"><a href="#新博文前瞻" class="headerlink" title="新博文前瞻"></a>新博文前瞻</h1><p><em>这段其实已经在空间发过一个月了（逃）</em></p><p>由于vercel被墙，所以她就被鸽了</p><p>vue-netease-music是一个基于Vue2、Vue-CLI3的高仿网易云mac客户端播放器（PC） 。美观、简洁是她最好的代名词</p><p>效果：<code>顶栏 - 娱乐 - 音乐</code></p><p>宣传图：</p><p><img src="/posts/undefined/psc.png"></p><p><img src="/posts/undefined/psc1.png"></p><p><img src="/posts/undefined/psc2.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;号外&quot;&gt;&lt;a href=&quot;#号外&quot; class=&quot;headerlink&quot; title=&quot;号外!&quot;&gt;&lt;/a&gt;号外!&lt;/h1&gt;&lt;p&gt;因为&lt;code&gt;vercel&lt;/code&gt;喜提被墙，我站的&lt;code&gt;网易云&lt;/code&gt;和&lt;code&gt;twikoo(评论系统)&lt;/co</summary>
+      
+    
+    
+    
+    <category term="管理日志" scheme="https://meinming.github.io/categories/%E7%AE%A1%E7%90%86%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="管理日志" scheme="https://meinming.github.io/tags/%E7%AE%A1%E7%90%86%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>公告：本站即日起开始使用来必力评论系统</title>
