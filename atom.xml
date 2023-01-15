@@ -6,7 +6,7 @@
   <link href="https://meinming.github.io/atom.xml" rel="self"/>
   
   <link href="https://meinming.github.io/"/>
-  <updated>2022-09-08T05:17:31.000Z</updated>
+  <updated>2023-01-15T13:53:23.000Z</updated>
   <id>https://meinming.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【预告】基于oicq的webqq的实现</title>
+    <link href="https://meinming.github.io/posts/312e17d7/"/>
+    <id>https://meinming.github.io/posts/312e17d7/</id>
+    <published>2023-01-15T13:53:23.000Z</published>
+    <updated>2023-01-15T13:53:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>诈尸力，您的bloger诈尸力（</p><p>最近一大堆事，突然想起来自己还有个blog要管就赶紧回来了</p><p><del>其实是为了发个预告罢了</del></p><h2 id="正题"><a href="#正题" class="headerlink" title="正题"></a>正题</h2><p>我们开了一个新坑</p><p>我们要写一个webqq!</p><p>大饼：</p><p><img src="/misskey_page_top_img.jpg"></p><p>看一眼我们的进度？</p><p>项目地址：<a href="https://github.com/meinming/oicq_web">meinming/oicq_web: （构思中）基于oicq的webqq的实现 (github.com)</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;诈尸力，您的bloger诈尸力（&lt;/p&gt;
+&lt;p&gt;最近一大堆事，突然想起来自己还有个blog要管就赶紧回来了&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;其实是为</summary>
+      
+    
+    
+    
+    <category term="Web项目" scheme="https://meinming.github.io/categories/Web%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="开源" scheme="https://meinming.github.io/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="Web" scheme="https://meinming.github.io/tags/Web/"/>
+    
+    <category term="nodejs" scheme="https://meinming.github.io/tags/nodejs/"/>
+    
+    <category term="code" scheme="https://meinming.github.io/tags/code/"/>
+    
+  </entry>
   
   <entry>
     <title>Python编写第一个cli程序（一）:自己写一个参数解析</title>
