@@ -112,7 +112,7 @@
 
   <url>
     <loc>https://meinming.github.io/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,63 +120,63 @@
   
   <url>
     <loc>https://meinming.github.io/tags/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/Web/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/nodejs/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/code/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://meinming.github.io/tags/%E7%AE%A1%E7%90%86%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/Python/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/cli/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://meinming.github.io/tags/%E7%AE%A1%E7%90%86%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -185,28 +185,28 @@
   
   <url>
     <loc>https://meinming.github.io/categories/Web%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://meinming.github.io/categories/%E7%AE%A1%E7%90%86%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/categories/Python/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://meinming.github.io/categories/%E7%AE%A1%E7%90%86%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://meinming.github.io/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
