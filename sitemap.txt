@@ -1,3 +1,4 @@
+https://meinming.github.io/about/index.html
 https://meinming.github.io/posts/25db9075/
 https://meinming.github.io/posts/312e17d7/
 https://meinming.github.io/posts/8448023d/
@@ -7,7 +8,6 @@ https://meinming.github.io/posts/4a17b156/
 https://meinming.github.io/artitalk/index.html
 https://meinming.github.io/posts/9dca6c72/
 https://meinming.github.io/posts/91ea5378/
-https://meinming.github.io/about/index.html
 https://meinming.github.io/categories/index.html
 https://meinming.github.io/tags/index.html
 https://meinming.github.io/link/index.html
